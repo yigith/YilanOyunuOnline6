@@ -95,7 +95,6 @@ namespace YilanOyunuOnline6
                 return;
             }
 
-
             bool yemiYuttuMu = yeniBas == yem;
             yilan.Insert(0, yeniBas);
 
